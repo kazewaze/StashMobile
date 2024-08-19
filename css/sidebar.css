@@ -8,9 +8,9 @@
   padding: 2.5px;
   transition: right 0.3s ease;
   z-index: 1000;
-  border-left: 4px solid #1c1e21;
+  border-left: 4px solid #510b98;
   color: #FFFFFF;
-  background-color: #212427;
+  background-color: #8000ff;
 }
 
 .sidebar ul {
@@ -84,10 +84,10 @@
   display: block;
   margin: 0;
   padding: 7.5px;
-  border-top: 2px solid #000000;
-  border-bottom: 4px solid #000000;
-  border-left: 4px solid #000000;
-  border-right: 2px solid #000000;
+  border-top: 2px solid #320360;
+  border-bottom: 4px solid #320360;
+  border-left: 4px solid #320360;
+  border-right: 2px solid #320360;
   border-radius: 7.75px;
-  background-color: #1c1e21;
+  background-color: #42047e;
 }
